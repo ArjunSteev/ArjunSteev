@@ -1,0 +1,11 @@
+<html>
+<head> 
+<title> New Project </title>
+</head>
+<body>
+<h1> This is the code for PHP And HTML </h1>
+<?php
+echo(pi()); // returns 3.1415926535898
+?>
+</body>
+</html>
